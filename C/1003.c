@@ -6,6 +6,6 @@ int main() {
     scanf("%d", &b);
     
     soma = a+b;
-    printf("X = %d\n", soma);
+    printf("SOMA = %d\n", soma);
     return 0;
 }
